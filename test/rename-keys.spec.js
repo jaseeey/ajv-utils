@@ -42,7 +42,10 @@ describe('renameKeys', () => {
             renameKeys: {
                 id: 'identifier',
                 name: 'firstName'
-            }
+            },
+            required: [
+                'id'
+            ]
         };
         const data = {
             id: 1,
