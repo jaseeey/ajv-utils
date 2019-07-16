@@ -1,0 +1,26 @@
+{
+  "name": "ajv-utils",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "A utility package for AJV (Another JSON Schema Validator)",
+  "keywords": [
+    "ajv"
+  ],
+  "repository": "git@github.com/jaseeey/ajv-utils.git",
+  "bugs": "https://github.com/jaseeey/ajv-utils/issues",
+  "homepage": "https://github.com/jaseeey/ajv-utils#readme",
+  "author": "Jason Ilicic <me@jasey.io>",
+  "license": "ISC",
+  "peerDependencies": {
+    "ajv": "^6.10.2"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "verbose": true
+  }
+}
