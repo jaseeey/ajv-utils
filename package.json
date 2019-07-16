@@ -1,5 +1,5 @@
 {
-  "name": "ajv-utils",
+  "name": "@jaseeey/ajv-utils",
   "version": "0.0.1",
   "main": "index.js",
   "description": "A utility package for AJV (Another JSON Schema Validator)",
