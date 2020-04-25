@@ -16,10 +16,10 @@
   "author": "Jason Ilicic <me@jasey.io>",
   "license": "MIT",
   "peerDependencies": {
-    "ajv": "^6.10.2"
+    "ajv": "^6.12.2"
   },
   "devDependencies": {
-    "jest": "^24.8.0"
+    "jest": "^25.4.0"
   },
   "scripts": {
     "test": "jest"
